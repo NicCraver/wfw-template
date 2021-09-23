@@ -1,0 +1,12 @@
+{
+  "name": "anx-wfw",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "zx-install": "cd zx && zx install.mjs",
+    "dev": "cd zx && zx dev.mjs",
+    "link": "cd zx && zx link.mjs",
+    "del": "cd zx && zx delete.mjs",
+    "build": "cd zx && zx build.mjs"
+  }
+}
